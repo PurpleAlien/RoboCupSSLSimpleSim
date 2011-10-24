@@ -1,0 +1,4 @@
+This is a very simple RoboCup SSL Simulator written in Java. The main 
+goal (pun intended) of the simulator was to test the Rapidly-exploring 
+random tree (RRT) algorithm for path planning in the Botnia RoboCup 
+Team.
